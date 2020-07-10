@@ -1,0 +1,34 @@
+.wrapper {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.paragraph {
+  display: flex;
+  flex-direction: column;
+  text-align: left !important;
+  p {
+    margin: 0px;
+  }
+}
+.container:hover {
+  background-color: rgba(132, 162, 192, 0.2);
+}
+.Candidate__image {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+@media only screen and (max-width: 1000px) {
+  .wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .container {
+    width: 400px;
+  }
+}

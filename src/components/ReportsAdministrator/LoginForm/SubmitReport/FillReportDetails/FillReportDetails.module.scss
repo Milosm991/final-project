@@ -1,0 +1,35 @@
+.interviewDate {
+  display: flex;
+  flex-direction: column;
+}
+.phase {
+  display: flex;
+  flex-direction: column;
+}
+.status {
+  display: flex;
+  flex-direction: column;
+}
+.notes {
+  height: 7em;
+}
+.butons {
+  max-width: 80% !important;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 10px auto;
+}
+
+.btnColor {
+  background-color: #5b84b1ff !important;
+  border-color: #5b84b1ff !important;
+}
+.span {
+  padding: 2px 5px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+.company {
+  margin-top: 1.4rem;
+}
