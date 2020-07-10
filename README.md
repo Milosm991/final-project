@@ -25,5 +25,5 @@ Login:
 ## Stack
 
 - Language: HTML5, CSS3, JS(ES6+)
-- Framework: React, Bootstrap
+- Library: React, Bootstrap
 - Package Manager: npm
