@@ -18,6 +18,11 @@ The Submit Report Page features a three-step "wizard": firstly, a candidate is s
 To start this program you'll need to clone and run this server to your machine: 
 https://github.com/nenadbugaric/interviews-reports-api-mock
 
+Then:
+- Clone this code to your machine
+- Run npm install
+- Run npm start
+
 Login: 
   email: dev@dev.com  
   password: developer
